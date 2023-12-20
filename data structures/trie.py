@@ -41,7 +41,7 @@ def add(root, word):
 def find_prefix(root, prefix):
     """
     Check and return 
-      1. If the prefix exsists in any of the words we added so far
+      1. If the prefix exists in any of the words we added so far
       2. If yes then how may words actually have the prefix
     """
     node = root
